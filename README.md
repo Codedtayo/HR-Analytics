@@ -11,6 +11,10 @@
 ### Project Overview 
 HR analytics, involves gathering together, analyzing, and reporting HR data. This dataset contains records of 311 employees from an HR department. It includes detailed information on employee demographics, employment details, performance, and more. It can be used to analyze employee performance, retention, satisfaction, and diversity in hiring.
 
+![Dashboard pg1](https://github.com/user-attachments/assets/8b68f5c2-d4d2-4eaf-8e4d-a925554073de)
+![Dashboard pg2](https://github.com/user-attachments/assets/1e2dca31-5ff9-4b1d-a37e-8449cf0f10fd)
+![Dashboard pg3](https://github.com/user-attachments/assets/2dddc7f9-967d-497e-b784-742f91b797c4)
+
 ### Data Source 
 Hr Data: the primary dataset used for this analysis is the ``HRDataset_v14`` file, containing detailed information about each employee of the company.
 
@@ -34,6 +38,11 @@ EDA involved exploring the HR data to answer key questions, such as:
 - Top reasons for resignation.
 - Gender bias in recruitment.
 - Gender pay gap
+
+
+![EDA_1](https://github.com/user-attachments/assets/f570a6cd-aaea-4827-b7d2-0821d7cfab94)
+
+![EDA_2](https://github.com/user-attachments/assets/a8af916a-4595-4dfe-88bb-b6fdf310fc18)
 
 ## Data Analysis
 
